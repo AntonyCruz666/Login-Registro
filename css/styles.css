@@ -85,8 +85,8 @@ header{
 
 .fondo {
     position: relative;
-    width: 400px;
-    height: 550px;
+    width: 80%;
+    height: 80vh;
     background: transparent;
     border: 3px solid rgba(121, 121, 121, 0.63);
     border-radius: 20px;
